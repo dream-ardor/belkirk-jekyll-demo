@@ -10,6 +10,9 @@ textline: A multidisciplinary centre of experts who are essential to patient-ori
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 services:
+- heading: Mega
+  description: Millions
+  icon: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 - heading: Power
   description: I have tons of power. Fear me baby
   icon: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
