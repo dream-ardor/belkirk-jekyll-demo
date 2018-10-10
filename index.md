@@ -9,7 +9,7 @@ partners:
 - "/uploads/2017/11/13/nysed.png"
 services:
 - heading: War
-  description: 'Ability to destroy with weapons of all types '
+  description: Ability to destroy with weapons of all types. Kiss me
   icon: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 - heading: Power
   description: I am strong as hell. And incredibly smart as well.
