@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: War
+  description: 'Ability to destroy with weapons of all types '
+  icon: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 - heading: Power
   description: I am strong as hell. And incredibly smart as well.
   icon: "/uploads/2018/02/17/neurons.jpg"
