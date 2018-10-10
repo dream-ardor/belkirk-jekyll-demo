@@ -11,7 +11,7 @@ publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 services:
 - heading: Power
-  description: I have tons of power. Fear me.
+  description: I have tons of power. Fear me baby
   icon: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
 menu:
   footer:
